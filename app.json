@@ -1,0 +1,14 @@
+{
+  "expo":
+  {
+    "name": "Matrix App",
+    "slug": "matrix-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "android":
+    {
+      "newArchEnabled": false
+    }
+  }
+}
